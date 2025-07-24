@@ -7,7 +7,7 @@
   },
   {
     "name": "Office RTSP",
-    "camera_index": "rtsp://admin:Admin%40123@10.118.138.39:554/1/h264minor",
+    "camera_index": "",
     "is_active": false,
     "zone_points": [[50, 50], [300, 50], [300, 200], [50, 200]]
   },
